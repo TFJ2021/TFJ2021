@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm TFJ! 
 
 
@@ -23,10 +22,9 @@
 
 
 ## 🛠 Skills
-#### Java
-₪ JDA (Java Discord API) <br/>
+### Java
+₪ JDA (Java Discord API)
 ₪ Bukkit API
 
-#### Web-development
+### Web-development
 ₪ Basic HTML, CSS and JS 
-
