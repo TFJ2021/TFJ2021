@@ -18,16 +18,16 @@
 
 
 ## 🛠 Languages and Tools
-- Java
+₪ Java
 
--- JDA (Java Discord API)
+〢 JDA (Java Discord API)
 
--- Bukkit/Paper API
+〢 Bukkit/Paper API
 
-- Basic Web-Development
+₪ Basic Web-Development
 
--- HTML, CSS and JS
+〢 HTML, CSS and JS
 
-- Tools
+₪ Tools
 
--- Github
+〢 Github
