@@ -6,13 +6,13 @@
 
 ₪ I'm currently learning nothing special
 
-₪ I'm looking for help with nothing
-
 ₪ Ask me about everthing
 
 ₪ You can reach me via Discord (TFJ_5183)
 
 ₪ I want to learn React next
+
+₪ I'm a Windows 10 user
 
 ₪ Fun fact: The world’s oldest cat lived to 38 years and three days old
 
