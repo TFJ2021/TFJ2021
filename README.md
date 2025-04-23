@@ -4,10 +4,6 @@
 ## 🔰 Small Facts
 ₪ I'm currently working on something. I dont know either
 
-₪ I'm currently learning nothing special
-
-₪ Ask me about everthing
-
 ₪ You can reach me via Discord (TFJ_5183)
 
 ₪ I want to learn React next
@@ -23,6 +19,8 @@
 〢 JDA (Java Discord API)
 
 〢 Bukkit/Paper API
+
+〢 Spring Boot
 
 ₪ Basic Web-Development
 
