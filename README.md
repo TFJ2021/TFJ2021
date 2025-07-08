@@ -2,13 +2,13 @@
 <h3 align="center">A student from Germany</h3>
 
 ## 🔰 Small Facts
-₪ I'm currently working on something. I dont know either
+₪ I'm currently working on something. I don't know either
 
 ₪ You can reach me via Discord (TFJ_5183)
 
 ₪ I want to learn React next
 
-₪ I'm a Windows 10 user
+₪ I'm a Linux (Zorin OS) user
 
 ₪ Fun fact: The world’s oldest cat lived to 38 years and three days old
 
@@ -29,3 +29,5 @@
 ₪ Tools
 
 〢 Github
+
+〢 Basic Terminal knowledge
