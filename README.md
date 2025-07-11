@@ -6,9 +6,11 @@
 
 ₪ You can reach me via Discord (TFJ_5183)
 
-₪ I want to learn React next
+₪ I'm currently learning next.js and tailwind
 
 ₪ I'm a Linux (Zorin OS) user
+
+₪ I'm a JetBrains lover (their IDEs are great (even if they are sometimes slow))
 
 ₪ Fun fact: The world’s oldest cat lived to 38 years and three days old
 
