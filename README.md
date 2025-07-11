@@ -10,7 +10,7 @@
 
 ₪ I'm a Linux (Zorin OS) user
 
-₪ I'm a JetBrains lover (their IDEs are great (even if they are sometimes slow))
+₪ I'm a JetBrains lover (their IDEs are great (even if they are slow sometimes))
 
 ₪ Fun fact: The world’s oldest cat lived to 38 years and three days old
 
